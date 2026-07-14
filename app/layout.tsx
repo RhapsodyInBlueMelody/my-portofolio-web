@@ -9,7 +9,7 @@ import "@fontsource/ibm-plex-sans/600.css";
 import "@fontsource/ibm-plex-sans/700.css";
 import "./globals.css";
 
-const SITE_URL = "https://faizcan.vercel.app/"; // update after you know your real Vercel/domain URL
+const SITE_URL = "https://faizcan.vercel.app"; // update after you know your real Vercel/domain URL
 const TITLE = "Syeddinul Faiz Caniggia — Computer Science Student";
 const DESCRIPTION =
     "Portfolio of Syeddinul Faiz Caniggia — full-stack, IoT, and systems projects.";
